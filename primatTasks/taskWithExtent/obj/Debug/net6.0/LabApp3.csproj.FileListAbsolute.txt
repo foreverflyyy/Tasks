@@ -1,0 +1,15 @@
+D:\dream\C#\tests\LabApp3\bin\Debug\net6.0\LabApp3.exe
+D:\dream\C#\tests\LabApp3\bin\Debug\net6.0\LabApp3.deps.json
+D:\dream\C#\tests\LabApp3\bin\Debug\net6.0\LabApp3.runtimeconfig.json
+D:\dream\C#\tests\LabApp3\bin\Debug\net6.0\LabApp3.dll
+D:\dream\C#\tests\LabApp3\bin\Debug\net6.0\LabApp3.pdb
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.csproj.AssemblyReference.cache
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.AssemblyInfoInputs.cache
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.AssemblyInfo.cs
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.csproj.CoreCompileInputs.cache
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.dll
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\refint\LabApp3.dll
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.pdb
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\LabApp3.genruntimeconfig.cache
+D:\dream\C#\tests\LabApp3\obj\Debug\net6.0\ref\LabApp3.dll
