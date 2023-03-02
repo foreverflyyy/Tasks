@@ -1,0 +1,15 @@
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\dream\Tasks\primatTasks\Discrete mathematics\Lab1\obj\Debug\net6.0\ref\Lab1.dll
